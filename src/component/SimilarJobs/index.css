@@ -1,0 +1,58 @@
+.similar-list-container {
+  background-color: #202020;
+  margin: 20px;
+  padding: 20px;
+  width: 370px;
+  border-radius: 15px;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.similar job company logo {
+}
+
+.company-logo-url {
+  width: 60px;
+  margin-right: 20px;
+}
+.company-logo-title {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 700;
+}
+.rating-conatiner {
+}
+.star-icon {
+}
+
+.count-rating {
+}
+.similar-description-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.similar-descritopn {
+  color: #ffffff;
+  font-size: 14px;
+  font-family: 'Roboto';
+  line-height: 2;
+}
+.location-container-flex-justify {
+  display: flex;
+  margin-top: 15px;
+}
+
+.location-logo {
+}
+.location-description {
+}
+.loaction-logo-brief {
+}

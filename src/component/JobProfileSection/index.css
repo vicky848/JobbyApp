@@ -1,0 +1,140 @@
+.details-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+}
+.search-input {
+  display: flex;
+  align-self: flex-start;
+  background-color: transparent;
+  width: 500px;
+  padding: 10px;
+  outline: none;
+  font-size: 16px;
+  color: #ffffff;
+  margin-left: 20px;
+  border-radius: 8px;
+  border: 1px solid #7e858e;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.search {
+  background-color: transparent;
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  outline: none;
+  border: none;
+  flex-grow: 1;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  width: 440px;
+}
+
+.search-button {
+  background-color: transparent;
+  border: none;
+}
+.search-icon {
+  color: #ffffff;
+  font-size: 20px;
+}
+.job-details-item-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.no-jobs-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 1000px;
+}
+.search-input-container {
+  display: flex;
+  background-color: transparent;
+  width: 500px;
+  border-radius: 5px;
+  padding: 10px;
+  outline: none;
+  font-size: 16px;
+  color: #ffffff;
+  margin-left: 20px;
+  border: 1px solid #7e858e;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.search-button {
+  background-color: transparent;
+  border: none;
+}
+
+.no-jobs {
+  width: 400px;
+}
+
+.no-jobs-heading {
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #ffffff;
+}
+.no-jobs-text {
+  font-size: 16px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure-view {
+}
+.failure-heading {
+  font-size: 40px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #ffffff;
+}
+.failure-text {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+
+.jobs-failure-button {
+  background-color: #4f46e5;
+  border: none;
+  width: 150px;
+  padding: 12px;
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.job-details-container {
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+}
+.render-group-items {
+  display: flex;
+  flex-direction: column;
+}
+
+.responsive-item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 60%;
+}
